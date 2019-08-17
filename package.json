@@ -1,0 +1,19 @@
+{
+  "name": "rapt-adoration",
+  "version": "0.0.0",
+  "description": "He felt a flicker of surprise at her choice of words, and then saw an expression of rapt adoration settle over her as she raised her picter at something behind him.",
+  "main": "app.js",
+  "bin": {
+    "rapt": "app.js"
+  },
+  "repository": "git@github.com:mvasilkov/rapt-adoration.git",
+  "author": "Mark Vasilkov <mvasilkov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "glob": "^7.1.4",
+    "ssri": "^6.0.1",
+    "write-json-file": "^4.2.0",
+    "yargs": "^13.3.0"
+  }
+}
